@@ -37,8 +37,6 @@ TypeScript, Node.js, Express.js, and MongoDB.
 - CodeChef: 4★ — 1812
 - GeeksforGeeks Weekly Contest 135 — Rank 7
 
-### 📫 Connect with me
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinas-behera-833a64244/)
