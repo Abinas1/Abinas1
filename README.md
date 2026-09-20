@@ -39,4 +39,9 @@ TypeScript, Node.js, Express.js, and MongoDB.
 
 ### 📫 Connect with me
 
-[LinkedIn] | [LeetCode] | [Codeforces] | [CodeChef]
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinas-behera-833a64244/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/abinas135/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1f8acb?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abinas135)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/abinas246)
