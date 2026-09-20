@@ -18,7 +18,7 @@ REST APIs, SOAP, Entity Framework
 
 ### 🚀 Featured Project
 
-**ScreenHub — Full-Stack Movie Ticket Booking Platform**
+### [ScreenHub — Full-Stack Movie Ticket Booking Platform](https://github.com/Abinas1/SCREENHUB)
 
 A full-stack movie ticket booking platform built with React.js,
 TypeScript, Node.js, Express.js, and MongoDB.
