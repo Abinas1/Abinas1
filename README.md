@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Abinas Behera 👋
 
-<!--
-**Abinas1/Abinas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer I passionate about building scalable backend systems,
+full-stack applications, and solving challenging algorithmic problems.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C++, C#, Python, JavaScript, TypeScript, SQL
+
+**Backend:** .NET, ASP.NET, ASP.NET Core, Node.js, Express.js,
+REST APIs, SOAP, Entity Framework
+
+**Frontend:** React.js, HTML5, CSS
+
+**Databases:** SQL Server, MongoDB, MySQL
+
+**Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD, Git, IIS
+
+### 🚀 Featured Project
+
+**ScreenHub — Full-Stack Movie Ticket Booking Platform**
+
+A full-stack movie ticket booking platform built with React.js,
+TypeScript, Node.js, Express.js, and MongoDB.
+
+- 3 role-based modules: Admin, Customer, Theater Manager
+- JWT authentication and Google OAuth
+- Role-based authorization
+- Movie, theater, show, seat and booking workflows
+- RESTful backend APIs
+- MongoDB-based data modeling
+
+### 🏆 Competitive Programming
+
+- LeetCode: Knight — 1996
+- Codeforces: Specialist — 1475
+- CodeChef: 4★ — 1812
+- GeeksforGeeks Weekly Contest 135 — Rank 7
+
+### 📫 Connect with me
+
+[LinkedIn] | [LeetCode] | [Codeforces] | [CodeChef]
